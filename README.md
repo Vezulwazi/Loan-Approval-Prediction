@@ -32,8 +32,7 @@ predict whether a loan application will be approved (`Loan_Status = Y`) or denie
 
 ## Dataset
 
-**Source:** Loan Prediction Dataset (Analytics Vidhya / Kaggle)
-
+Source: [Loan Prediction Problem Dataset (Analytics Vidhya)](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/)
 ### Dataset Summary
 
 * Total Applications: **614**
